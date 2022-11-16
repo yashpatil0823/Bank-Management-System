@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1647573018 source:c:\users\adones\downloads\c++ project\bankmanagementsystem-c++-mysql\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<string>
+	<sstream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1667305779 source:d:\projects\bankmanagementsystem-c++-mysql\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<string>
+	<sstream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
